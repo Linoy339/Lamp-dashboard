@@ -74,7 +74,7 @@
     "vega": "^5.17.1",
     "vega-embed": "^6.18.2",
     "vega-lite": "^4.17.0",
-    "vega-tooltip": "^0.24.2"
+    "vega-tooltip": "^0.27.0"
   },
   "resolutions": {
     "glob-parent": "5.1.2",
